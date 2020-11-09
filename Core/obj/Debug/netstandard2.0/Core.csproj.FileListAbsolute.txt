@@ -1,0 +1,17 @@
+C:\Users\Monster\source\repos\Appointment\Core\bin\Debug\netstandard2.0\Core.deps.json
+C:\Users\Monster\source\repos\Appointment\Core\bin\Debug\netstandard2.0\Core.dll
+C:\Users\Monster\source\repos\Appointment\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+C:\Users\Monster\source\repos\Appointment\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+C:\Users\Monster\source\repos\Appointment\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+C:\Users\Monster\source\repos\Appointment\Core\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\Monster\source\repos\Appointment\Core\obj\Debug\netstandard2.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\Appointment\Core\obj\Debug\netstandard2.0\Core.dll
+C:\Users\Monster\source\repos\Appointment\Core\obj\Debug\netstandard2.0\Core.pdb
+C:\Users\savran2\Desktop\Gitlab\Core\bin\Debug\netstandard2.0\Core.deps.json
+C:\Users\savran2\Desktop\Gitlab\Core\bin\Debug\netstandard2.0\Core.dll
+C:\Users\savran2\Desktop\Gitlab\Core\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\savran2\Desktop\Gitlab\Core\obj\Debug\netstandard2.0\Core.csprojAssemblyReference.cache
+C:\Users\savran2\Desktop\Gitlab\Core\obj\Debug\netstandard2.0\Core.AssemblyInfoInputs.cache
+C:\Users\savran2\Desktop\Gitlab\Core\obj\Debug\netstandard2.0\Core.AssemblyInfo.cs
+C:\Users\savran2\Desktop\Gitlab\Core\obj\Debug\netstandard2.0\Core.dll
+C:\Users\savran2\Desktop\Gitlab\Core\obj\Debug\netstandard2.0\Core.pdb

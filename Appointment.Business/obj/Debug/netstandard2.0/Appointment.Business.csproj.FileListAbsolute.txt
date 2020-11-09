@@ -1,0 +1,12 @@
+C:\Users\savran2\Desktop\Gitlab\Appointment.Business\bin\Debug\netstandard2.0\Appointment.Business.deps.json
+C:\Users\savran2\Desktop\Gitlab\Appointment.Business\bin\Debug\netstandard2.0\Appointment.Business.dll
+C:\Users\savran2\Desktop\Gitlab\Appointment.Business\obj\Debug\netstandard2.0\Appointment.Business.csprojAssemblyReference.cache
+C:\Users\savran2\Desktop\Gitlab\Appointment.Business\obj\Debug\netstandard2.0\Appointment.Business.AssemblyInfoInputs.cache
+C:\Users\savran2\Desktop\Gitlab\Appointment.Business\obj\Debug\netstandard2.0\Appointment.Business.AssemblyInfo.cs
+C:\Users\savran2\Desktop\Gitlab\Appointment.Business\bin\Debug\netstandard2.0\Appointment.DataAccess.dll
+C:\Users\savran2\Desktop\Gitlab\Appointment.Business\bin\Debug\netstandard2.0\Appointment.Entities.dll
+C:\Users\savran2\Desktop\Gitlab\Appointment.Business\bin\Debug\netstandard2.0\Core.dll
+C:\Users\savran2\Desktop\Gitlab\Appointment.Business\bin\Debug\netstandard2.0\Appointment.DataAccess.pdb
+C:\Users\savran2\Desktop\Gitlab\Appointment.Business\bin\Debug\netstandard2.0\Appointment.Entities.pdb
+C:\Users\savran2\Desktop\Gitlab\Appointment.Business\bin\Debug\netstandard2.0\Core.pdb
+C:\Users\savran2\Desktop\Gitlab\Appointment.Business\obj\Debug\netstandard2.0\Appointment.Business.csproj.CopyComplete
